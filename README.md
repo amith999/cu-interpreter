@@ -15,4 +15,10 @@ Some limitations in the code:
 
 1. Inputs must be given in Quotes.
 2. All the tokens (ie. operators and operands) must be space-separated.
+3. Error handling and fail testcases not implemented.
 
+HOW TO RUN:
+
+1. Execute python interpreter.py in command line
+2. Now it takes continous inputs.
+3. Inputs can be given with a compulsary space separation between the tokens.
