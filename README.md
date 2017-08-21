@@ -16,6 +16,7 @@ Some limitations in the code:
 1. Inputs must be given in Quotes.
 2. All the tokens (ie. operators and operands) must be space-separated.
 3. Error handling and fail testcases not implemented.
+4. Multiple assignment operators are not supported
 
 HOW TO RUN:
 
