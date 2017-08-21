@@ -1,0 +1,13 @@
+Mastery:
+
+To convert the given ambigous grammar to an unambigous one and implementing a LR parser.
+
+Acceptable understanding:
+
+Eventhough the grammar given is unambigous, take an approach to model a compiler where
+lexical analysis happens and expressions are evaluated based on a precedence. 
+
+Insufficient understanding:
+
+This means developing an interpreter without any precedence given to the operators and also not storing 
+the context of the variables used during an interpretor session.
